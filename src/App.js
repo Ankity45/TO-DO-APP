@@ -26,6 +26,7 @@ function App() {
       }
       return listItem;
     });
+    // setTodolist(newTodolist);
     setTodolist(newTodolist);
   };
 
